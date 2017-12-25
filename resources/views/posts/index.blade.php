@@ -15,6 +15,7 @@
                     <div class="panel-body">
                         <div class="row">
                             @foreach($posts as $post)
+                                echo "hello";
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="caption">
